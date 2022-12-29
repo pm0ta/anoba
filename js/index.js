@@ -1,6 +1,6 @@
 function loop() {
-    for(var i = 11; i > 10; i++) {
-        console.log(i)
+    for(var i = 11; i > 10;) {
+        alert('swsw')
     }
 }
 
